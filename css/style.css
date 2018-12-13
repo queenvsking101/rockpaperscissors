@@ -7,3 +7,12 @@
   justify-content:space-between;
   
 }
+img{
+ height: 200px;
+ width:300px;
+}
+body{
+  color:blue;
+  background-color:black;
+  font-size: 30px;
+}
